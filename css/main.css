@@ -119,6 +119,7 @@ header {
   font-size: 1.3em;
 }
 
+
 .style-icon-section-1 {
   height: 175px;
   width: 175px;
@@ -131,7 +132,22 @@ header {
   height: 80px;
   width: 80px;
   display: block;
+  margin-left: 114px;
 }
+
+.celeste {
+  background-color: #75B9E7;
+}
+
+.wh-text {
+  color: white;
+}
+
+.wh-title-big {
+  font-size: 5.42857rem;
+  font-weight: bold;
+}
+
 .style-icon-section-3{
   width: 100px;
   height: 100px;
